@@ -1,0 +1,30 @@
+#uno {
+	border-collapse: collapse;
+	background-color: blue;
+	font-family: verdana;
+}
+
+td {
+	border: black 2px solid;
+}
+
+th {
+	border: black 3px solid;
+}
+
+#caption1 {
+	font-weight: bold;
+	background-color: red;
+	border: black 4px solid;
+}
+
+#dos {
+	background-color: red;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#caption2 {
+	background-color: blue;
+	border: black 5px solid;
+}
